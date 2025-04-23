@@ -16,14 +16,16 @@ Additionally, a Power BI dashboard has been developed to present interactive vis
 - Examine match-wise and season-wise statistics using EDA.
 - Present team-wise and player-wise breakdowns with a Power BI dashboard.
 
-        Tools & Libraries Used
+                          Tools & Libraries Used
+
 - Python (EDA)
 - pandas
 - numpy
 - matplotlib
 - seaborn
 
-Power BI (Visualization)
+                          Power BI (Visualization)
+
 - Power BI Desktop for dashboard creation
 - DAX for calculated measures
 - Power Query for data transformation
